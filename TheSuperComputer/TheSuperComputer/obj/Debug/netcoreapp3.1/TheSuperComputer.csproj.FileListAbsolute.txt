@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.exe
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.deps.json
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.runtimeconfig.json
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.dll
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.pdb
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.dll
+C:\Users\ASUS\Documents\Tugas\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.pdb
